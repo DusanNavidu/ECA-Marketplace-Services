@@ -1,0 +1,9 @@
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/DusanNavidu/user-service.git
+[submodule "catalog-service"]
+	path = catalog-service
+	url = https://github.com/DusanNavidu/catalog-service.git
+[submodule "delivery-service"]
+	path = delivery-service
+	url = https://github.com/DusanNavidu/delivery-service.git
